@@ -4,7 +4,7 @@
     <div
       id="app"
       v-show="currentIndex === 0"
-      class="bg-[url(../public/images/anh2.jpg)] bg-cover bg-center text-white h-[600px] py-10 pl-15"
+      class="bg-[url(src/assets/images/anh2.jpg)] bg-cover bg-center text-white h-[600px] py-10 pl-15"
     >
       <p class="text-red-700 text-xl mb-5">Mona Furniture</p>
       <p class="text-5xl mb-1">Mang đến phong cách</p>
@@ -32,7 +32,7 @@
     <div
       id="app"
       v-show="currentIndex === 1"
-      class="bg-[url(../public/images/anh.jpg)] bg-cover bg-center text-white h-[600px] py-10 pl-15 transition duration-100 ease-in-out"
+      class="bg-[url(src/assets/images/anh.jpg))] bg-cover bg-center text-white h-[600px] py-10 pl-15 transition duration-100 ease-in-out"
     >
       <p class="text-red-700 text-xl mb-5">Mona Furniture</p>
       <p class="text-5xl mb-4">Nội thất phong cách tối giản</p>
