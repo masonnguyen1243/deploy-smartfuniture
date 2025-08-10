@@ -2,6 +2,6 @@
 <template>
   <div class="p-10 text-center">
     <h1 class="text-3xl font-bold">Cart Page</h1>
+    <p>Comming soon...</p>
   </div>
 </template>
-
