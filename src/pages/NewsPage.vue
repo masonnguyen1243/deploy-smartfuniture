@@ -76,7 +76,7 @@
 <script setup>
 const posts = [
   {
-    image: "/public/images/sofa1.jpg",
+    image: "/images/sofa1.jpg",
     date: "24",
     month: "9",
     author: "monamedia",
@@ -86,7 +86,7 @@ const posts = [
       "Chào mừng bạn đến với mẫu tin tức hiện đại, phong cách và đẹp mắt.",
   },
   {
-    image: "/public/images/sofa2.jpg",
+    image: "/images/sofa2.jpg",
     date: "14",
     month: "9",
     author: "monamedia",
